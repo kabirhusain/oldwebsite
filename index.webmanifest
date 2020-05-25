@@ -2,8 +2,8 @@
   "name": "KH",
   "short_name": "KH",
   "lang": "en-us",
-  "theme_color": "rgb(217, 95, 2)",
-  "background_color": "rgb(217, 95, 2)",
+  "theme_color": "#D95F02",
+  "background_color": "#D95F02",
   "icons": [{
     "src": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
