@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Physical Constraints on Epistasis</title>
+      <title>Physical constraints on epistasis</title>
       <link>https://kabirhusain.github.io/publication/2019-epistasis/</link>
       <pubDate>Tue, 12 May 2020 15:07:20 -0400</pubDate>
       <guid>https://kabirhusain.github.io/publication/2019-epistasis/</guid>
@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>Kalman-like Self-Tuned Sensitivity in Biophysical Sensing</title>
+      <title>Kalman-like self-tuned sensitivity in biophysical sensing</title>
       <link>https://kabirhusain.github.io/publication/2018-kalman/</link>
       <pubDate>Wed, 25 Sep 2019 11:46:27 -0400</pubDate>
       <guid>https://kabirhusain.github.io/publication/2018-kalman/</guid>
@@ -37,10 +37,26 @@
     </item>
     
     <item>
-      <title>Anillin Promotes Cell Contractility by Cyclic Resetting of RhoA Residence Kinetics</title>
+      <title>Anillin promotes cell contractility by cyclic resetting of RhoA residence kinetics</title>
       <link>https://kabirhusain.github.io/publication/2019-anillin/</link>
       <pubDate>Mon, 17 Jun 2019 16:17:03 -0400</pubDate>
       <guid>https://kabirhusain.github.io/publication/2019-anillin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A DNA-based T-cell receptor reveals a role for receptor clustering in ligand discrimination</title>
+      <link>https://kabirhusain.github.io/publication/2017-tcell/</link>
+      <pubDate>Thu, 23 Mar 2017 16:35:01 -0400</pubDate>
+      <guid>https://kabirhusain.github.io/publication/2017-tcell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emergent structures in an active polar fluid: dynamics of shape, scattering, and merger</title>
+      <link>https://kabirhusain.github.io/publication/2017-prl/</link>
+      <pubDate>Fri, 17 Feb 2017 18:24:07 -0400</pubDate>
+      <guid>https://kabirhusain.github.io/publication/2017-prl/</guid>
       <description></description>
     </item>
     

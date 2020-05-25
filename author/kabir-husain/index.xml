@@ -7,7 +7,7 @@
     <description>Kabir Husain</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 May 2020 15:56:47 -0400</lastBuildDate>
     <image>
-      <url>https://kabirhusain.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kabirhusain.github.io/author/kabir-husain/avatar_huf1cd8ec41a868b1e86f8a9418437593f_616753_270x270_fill_lanczos_center_2.png</url>
       <title>Kabir Husain</title>
       <link>https://kabirhusain.github.io/author/kabir-husain/</link>
     </image>
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Physical Constraints on Epistasis</title>
+      <title>Physical constraints on epistasis</title>
       <link>https://kabirhusain.github.io/publication/2019-epistasis/</link>
       <pubDate>Tue, 12 May 2020 15:07:20 -0400</pubDate>
       <guid>https://kabirhusain.github.io/publication/2019-epistasis/</guid>
@@ -37,7 +37,7 @@
     </item>
     
     <item>
-      <title>Kalman-like Self-Tuned Sensitivity in Biophysical Sensing</title>
+      <title>Kalman-like self-tuned sensitivity in biophysical sensing</title>
       <link>https://kabirhusain.github.io/publication/2018-kalman/</link>
       <pubDate>Wed, 25 Sep 2019 11:46:27 -0400</pubDate>
       <guid>https://kabirhusain.github.io/publication/2018-kalman/</guid>
@@ -45,7 +45,7 @@
     </item>
     
     <item>
-      <title>Anillin Promotes Cell Contractility by Cyclic Resetting of RhoA Residence Kinetics</title>
+      <title>Anillin promotes cell contractility by cyclic resetting of RhoA residence kinetics</title>
       <link>https://kabirhusain.github.io/publication/2019-anillin/</link>
       <pubDate>Mon, 17 Jun 2019 16:17:03 -0400</pubDate>
       <guid>https://kabirhusain.github.io/publication/2019-anillin/</guid>
@@ -99,6 +99,22 @@ date: 2019-09-01
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A DNA-based T-cell receptor reveals a role for receptor clustering in ligand discrimination</title>
+      <link>https://kabirhusain.github.io/publication/2017-tcell/</link>
+      <pubDate>Thu, 23 Mar 2017 16:35:01 -0400</pubDate>
+      <guid>https://kabirhusain.github.io/publication/2017-tcell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emergent structures in an active polar fluid: dynamics of shape, scattering, and merger</title>
+      <link>https://kabirhusain.github.io/publication/2017-prl/</link>
+      <pubDate>Fri, 17 Feb 2017 18:24:07 -0400</pubDate>
+      <guid>https://kabirhusain.github.io/publication/2017-prl/</guid>
+      <description></description>
     </item>
     
     <item>
