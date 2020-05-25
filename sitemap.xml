@@ -18,11 +18,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
@@ -30,6 +25,56 @@
   <url>
     <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-05-25T11:46:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/arvind-murugan/</loc>
+    <lastmod>2020-05-25T11:46:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-05-25T11:46:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gopal-pattanayak/</loc>
+    <lastmod>2020-05-25T11:46:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kabir-husain/</loc>
+    <lastmod>2020-05-25T11:46:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2018-kalman/</loc>
+    <lastmod>2020-05-25T11:46:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/michael-j.-rust/</loc>
+    <lastmod>2020-05-25T11:46:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-05-25T11:46:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-05-25T11:46:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/weerapat-pittayakanchit/</loc>
+    <lastmod>2020-05-25T11:46:27-04:00</lastmod>
   </url>
   
   <url>
@@ -58,26 +103,6 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/kabir-husain/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
@@ -100,6 +125,16 @@
   <url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/research/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -160,11 +195,6 @@
   <url>
     <loc>/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
