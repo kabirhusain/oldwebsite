@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gopal Pattanayak | KH</title>
-    <link>/author/gopal-pattanayak/</link>
-      <atom:link href="/author/gopal-pattanayak/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kabirhusain.github.io/author/gopal-pattanayak/</link>
+      <atom:link href="https://kabirhusain.github.io/author/gopal-pattanayak/index.xml" rel="self" type="application/rss+xml" />
     <description>Gopal Pattanayak</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 May 2020 11:46:27 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Sep 2019 11:46:27 -0400</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kabirhusain.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Gopal Pattanayak</title>
-      <link>/author/gopal-pattanayak/</link>
+      <link>https://kabirhusain.github.io/author/gopal-pattanayak/</link>
     </image>
     
     <item>
       <title>Kalman-like Self-Tuned Sensitivity in Biophysical Sensing</title>
-      <link>/publication/2018-kalman/</link>
-      <pubDate>Mon, 25 May 2020 11:46:27 -0400</pubDate>
-      <guid>/publication/2018-kalman/</guid>
+      <link>https://kabirhusain.github.io/publication/2018-kalman/</link>
+      <pubDate>Wed, 25 Sep 2019 11:46:27 -0400</pubDate>
+      <guid>https://kabirhusain.github.io/publication/2018-kalman/</guid>
       <description></description>
     </item>
     

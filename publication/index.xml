@@ -2,57 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | KH</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kabirhusain.github.io/publication/</link>
+      <atom:link href="https://kabirhusain.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 May 2020 11:46:27 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 May 2020 15:56:47 -0400</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kabirhusain.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://kabirhusain.github.io/publication/</link>
     </image>
     
     <item>
-      <title>Kalman-like Self-Tuned Sensitivity in Biophysical Sensing</title>
-      <link>/publication/2018-kalman/</link>
-      <pubDate>Mon, 25 May 2020 11:46:27 -0400</pubDate>
-      <guid>/publication/2018-kalman/</guid>
+      <title>Proofreading through spatial gradients</title>
+      <link>https://kabirhusain.github.io/publication/2020-gradientproofreading/</link>
+      <pubDate>Sat, 23 May 2020 15:56:47 -0400</pubDate>
+      <guid>https://kabirhusain.github.io/publication/2020-gradientproofreading/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Physical Constraints on Epistasis</title>
+      <link>https://kabirhusain.github.io/publication/2019-epistasis/</link>
+      <pubDate>Tue, 12 May 2020 15:07:20 -0400</pubDate>
+      <guid>https://kabirhusain.github.io/publication/2019-epistasis/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example JRNL article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Tuning environmental timescales to evolve and maintain generalists </title>
+      <link>https://kabirhusain.github.io/publication/2019-bnabs/</link>
+      <pubDate>Fri, 27 Mar 2020 15:07:31 -0400</pubDate>
+      <guid>https://kabirhusain.github.io/publication/2019-bnabs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kalman-like Self-Tuned Sensitivity in Biophysical Sensing</title>
+      <link>https://kabirhusain.github.io/publication/2018-kalman/</link>
+      <pubDate>Wed, 25 Sep 2019 11:46:27 -0400</pubDate>
+      <guid>https://kabirhusain.github.io/publication/2018-kalman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anillin Promotes Cell Contractility by Cyclic Resetting of RhoA Residence Kinetics</title>
+      <link>https://kabirhusain.github.io/publication/2019-anillin/</link>
+      <pubDate>Mon, 17 Jun 2019 16:17:03 -0400</pubDate>
+      <guid>https://kabirhusain.github.io/publication/2019-anillin/</guid>
+      <description></description>
     </item>
     
   </channel>

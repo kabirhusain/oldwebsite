@@ -2,21 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arvind Murugan | KH</title>
-    <link>/author/arvind-murugan/</link>
-      <atom:link href="/author/arvind-murugan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kabirhusain.github.io/author/arvind-murugan/</link>
+      <atom:link href="https://kabirhusain.github.io/author/arvind-murugan/index.xml" rel="self" type="application/rss+xml" />
     <description>Arvind Murugan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 May 2020 11:46:27 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 May 2020 15:56:47 -0400</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kabirhusain.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Arvind Murugan</title>
-      <link>/author/arvind-murugan/</link>
+      <link>https://kabirhusain.github.io/author/arvind-murugan/</link>
     </image>
     
     <item>
+      <title>Proofreading through spatial gradients</title>
+      <link>https://kabirhusain.github.io/publication/2020-gradientproofreading/</link>
+      <pubDate>Sat, 23 May 2020 15:56:47 -0400</pubDate>
+      <guid>https://kabirhusain.github.io/publication/2020-gradientproofreading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physical Constraints on Epistasis</title>
+      <link>https://kabirhusain.github.io/publication/2019-epistasis/</link>
+      <pubDate>Tue, 12 May 2020 15:07:20 -0400</pubDate>
+      <guid>https://kabirhusain.github.io/publication/2019-epistasis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuning environmental timescales to evolve and maintain generalists </title>
+      <link>https://kabirhusain.github.io/publication/2019-bnabs/</link>
+      <pubDate>Fri, 27 Mar 2020 15:07:31 -0400</pubDate>
+      <guid>https://kabirhusain.github.io/publication/2019-bnabs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kalman-like Self-Tuned Sensitivity in Biophysical Sensing</title>
-      <link>/publication/2018-kalman/</link>
-      <pubDate>Mon, 25 May 2020 11:46:27 -0400</pubDate>
-      <guid>/publication/2018-kalman/</guid>
+      <link>https://kabirhusain.github.io/publication/2018-kalman/</link>
+      <pubDate>Wed, 25 Sep 2019 11:46:27 -0400</pubDate>
+      <guid>https://kabirhusain.github.io/publication/2018-kalman/</guid>
       <description></description>
     </item>
     
